@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the proceedings in Ireland about Mr. Edward Bagshaw anno 1662</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52647</idno>
+            <idno type="STC">Wing N213A</idno>
+            <idno type="STC">ESTC R214297</idno>
+            <idno type="EEBO-CITATION">99826494</idno>
+            <idno type="PROQUEST">99826494</idno>
+            <idno type="VID">30897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1765:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the proceedings in Ireland about Mr. Edward Bagshaw anno 1662</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: Subscribed, Edw. Bagshaw.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bagshaw, Edward, d. 1662.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30897:1"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="1" facs="tcp:30897:1"/>
+            <!-- PDF PAGE 58 -->
+            <head>A NARRATIVE OF THE Proceedings in Ireland ABOUT Mr. <hi>EDWARD BAGSHAW</hi> Anno 1662.</head>
+            <p>THere having been many, and moſt of them falſe, Re<g ref="char:EOLhyphen"/>ports raiſed concerning Mr. <hi>Edward Bagſhaw's</hi> De<g ref="char:EOLhyphen"/>meanour in <hi>Ireland;</hi> I being at that time upon the Place, and privy to all that paſſed, thought good to make this Brief, but True and Impartial Account of all that happened, ſo far as Mr. <hi>Bagſhaw,</hi> during his ſtay there, was concerned.</p>
+            <p>On <hi>July</hi> 27, 1662. Mr. <hi>Bagſhaw</hi> landed at <hi>Hill Hoth</hi> in <hi>Ireland,</hi> and from thence repaired to Capt. <hi>Jones</hi> his Houſe upon the <hi>Colledge Green</hi> in <hi>Dublin,</hi> where the Right Honou<g ref="char:EOLhyphen"/>rable the Earl of <hi>Angleſey</hi> (upon whom he did attend as his
+<pb n="2" facs="tcp:30897:2"/>
+               <!-- PDF PAGE 59 -->Domeſtick Chaplain) had provided him a Lodging. After he had ſpent ſome few dayes to refreſh himſelf, and to en<g ref="char:EOLhyphen"/>quire into the ſtate of Affairs, eſpecially thoſe that concern<g ref="char:EOLhyphen"/>ed the Church, he thought himſelf obliged in Conſcience n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o b<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>le; but ſince moſt of the Miniſters, who had any Gift in Preaching, were ſilenced he conceived he could not do God better Service, then once every Lords Day to ſpend his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ains that way; which he ſuppoſed none could take offence at, ſince he was himſelf Epiſcopally Or<g ref="char:EOLhyphen"/>dained, and thereby freed from that Exception which was taken againſt the ſilenced Miniſters, who ſtill owned and ad<g ref="char:EOLhyphen"/>hered unto their former Ordination by Presbytery: And be<g ref="char:EOLhyphen"/>ſides being Chaplain to a Perſon of ſo great Worth and E<g ref="char:EOLhyphen"/>minence, as the Earl of <hi>Angleſey</hi> was known to be, he had reaſon to think, that his Relation would facilitate his deſign, and open thoſe Churches to him, which were ſhut to others, that wanted thoſe Qualifications.</p>
+            <p>Accordingly he did on <hi>July</hi> 31. by means of a Friend, ad<g ref="char:EOLhyphen"/>dreſs himſelf to one Mr. <hi>Huſon,</hi> Miniſter of the Pariſh Church of St. <hi>Warbours,</hi> in the Confines of which Pariſh M. <hi>Bagſhaw</hi> lodged; and deſited leave that ſomtimes he might aſſiſt and eaſe him in his Preaching: which Motion was readily em<g ref="char:EOLhyphen"/>braced and aſſented to by Mr. <hi>Huſon,</hi> who did appoint the next Lords Day following in the Morning, to be the time wherein Mr. <hi>Bagſhaw</hi> ſhould begin. But on the Saturday, Mr. <hi>Bagſhaw</hi> was ſomwhat amazed, when he had News from Mr. <hi>Huſon,</hi> that one Dr. <hi>Scile</hi> had commanded him to the Bi<g ref="char:EOLhyphen"/>ſhops Name, to let no Stranger preach, unleſs he brought with him the Archbiſhop of <hi>Dublins</hi> Licenſe. Though under the Civil Term of prohibiting a <hi>Stranger,</hi> Mr. <hi>Bagſhaw</hi> had reaſon to think himſelf particularly meant, yet becauſe he did not know what he had done to deſerve ſuch an Excluſi<g ref="char:EOLhyphen"/>on, he made his Caſe known to the Right Honourable the
+<pb n="3" facs="tcp:30897:2"/>
+               <!-- PDF PAGE 59 -->Earl of <hi>Angleſey,</hi> who on the Lords Day about 7 in the Morning ſent his Servant to wait upon the Archbiſhop of <hi>Dublin</hi> with this Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Grace,</salute>
+                  </opener>
+                  <p>My Chaplain Mr <hi>Bagſhaw,</hi> being willing to take pains whilſt he stayed to <hi>Dublin,</hi> got leave of Mr. <hi>Huſon,</hi> to ſupply his place for him this Morning: But your Grace having given Order, that no Stranger ſhould preach without your Licenſe; I do deſire it on his behalf, as for one that not only is Epiſcopally Or<g ref="char:EOLhyphen"/>dained, but likewiſe is very Sober, Orthodox, and Inoffenſive in his Preaching. Your Graces Permiſſion at this time will be very acceptable to many, and particularly to Mr. <hi>Huſon,</hi> who in confi<g ref="char:EOLhyphen"/>dence of my Chaplains Aſſiſtance, hath omitted to provide him<g ref="char:EOLhyphen"/>ſelf. In eaſe hereafter you think fit to examine him, I ſhall ſome day the next Week ſend him to wait upon your Grace, and doubt not but he will give you all manner of Satisfaction. I reſt,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Augu<gap reason="illegible: missing" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> 
+                              <gap reason="illegible" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>. 166<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <hi>Your Graces Humble Servant,</hi> Angleſey.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Letter ſo civil in it ſelf, and coming from a Perſon of ſo great Eminence, might have prevailed for a much greater Favour; but after two Hours ſtay, the Meſſenger returned with this ſhort and Inſignificant Anſwer;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>Your Chaplain came not to me, according to your Lordſhips Directions; and before I ſpeak with him, I cannot diſpenſe
+<pb n="4" facs="tcp:30897:3"/>
+                     <!-- PDF PAGE 60 -->with his Preaching in my Dioceſs; who am otherwiſe very rea<g ref="char:EOLhyphen"/>dy to approve my ſelf,</p>
+                  <closer>
+                     <dateline>St. S<gap reason="illegible" extent="7+ letters">
+                           <desc>〈7… letters〉</desc>
+                        </gap>, <date>Aug 3. 62.</date>
+                     </dateline>
+                     <salute>My Lord,</salute> 
+                     <signed>Your Moſt Affectionate Servant, <hi>Ja. Dublin</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Two things in this ſhort Letter were ſomwhat admirable; one was, the wilful Miſtake, which the Biſhop made, in ta<g ref="char:EOLhyphen"/>king Exception at Mr. <hi>Bagſhaw's</hi> not waiting upon him, ac<g ref="char:EOLhyphen"/>cording to the Earl of <hi>Angleſey's</hi> Direction; whereas that Honourable Perſon mentioned it only for ſome day in the following Week, but for that day deſired he might preach without uſing that Ceremony. And the other was, the little Reaſon the Biſhop had to ſubſcribe himſelf my Lords <hi>Moſt Affectionate Servant,</hi> ſince in a thing of ſo Trivial and Facile a Nature, he had, not only unjuſtly, but, as ſome think, uncivilly, refuſed that Noble Earles Expreſs and Earneſt Deſire. But however, Mr. <hi>Bagſhaw</hi> ſubmitted to the Biſhops Pleaſure, and did not only forbear Preaching in pub<g ref="char:EOLhyphen"/>lick, but came himſelf in the Afternoon unto the very place where he had deſigned to preach; to ſhew that though he had Reaſon to <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e diſſatisfied, yet he was no Separatiſt.</p>
+            <p>On the <hi>Tueſday</hi> following, Mr. <hi>Bagſhaw</hi> waited upon the Archbiſhop, and was much ſurprized, when for a Salutati<g ref="char:EOLhyphen"/>on, he was told, that he came to ſet the Nation in a Flame; and when Mr. <hi>Bagſhaw</hi> deſired the Biſhop to have Nobler, or, at leaſt Cooler Thoughts of him; the Biſhop asked him in great heat, whether he were not the Author of the Letter againſt the Biſhop of <hi>Worceſter?</hi> To which Mr. <hi>Bagſhaw</hi> an<g ref="char:EOLhyphen"/>ſwered,
+<pb n="5" facs="tcp:30897:3"/>
+               <!-- PDF PAGE 60 -->That he did not remember, that his Name was ſub<g ref="char:EOLhyphen"/>ſcribed to any ſuch Letter: Whereupon, the Biſhop preſent<g ref="char:EOLhyphen"/>ly demanded, whether he would deny it? and when M. <hi>Bag<g ref="char:EOLhyphen"/>ſhaw</hi> i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiſted, that he thought himſelf not bound, either to affirm, or, how Innocent ſoever he was, to deny any ſuch thing, until he was Legally charged with it; the Biſhop forthwith told him that unleſs he would expreſſely deny he had any hand in writing that Letter, he did forbid him Preaching in his <hi>Dioceſs.</hi> Which whether it were a ſuffici<g ref="char:EOLhyphen"/>ent Reaſon, upon Suppoſition that Mr. <hi>Bagſhaw</hi> had been the Author, muſt be left to others to judge: For how could the writing a Letter in <hi>England,</hi> diſable a man a Year after, from Preaching a Sermon in <hi>Ireland?</hi> Or why ſhould the Archbiſhop of <hi>Dublin</hi> be more fierce for Vindicating the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Worceſters</hi> Honour, in caſe Mr. <hi>Bagſhaw</hi> had injured him, than either the Biſhop of <hi>Worceſter</hi> himſelf, or all the Biſhops in <hi>England</hi> were; who either thought Mr. <hi>Bagſhaw</hi> Innocent, or elſe that ſo petty a Fact did not deſerve ſo ſharp a Sentence? for though Mr. <hi>Bagſhaw</hi> often preached publickly, yet he was never ſo much as once queſtioned for it.</p>
+            <p>But though Mr. <hi>Bagſhaw</hi> was thus prohibited by the Bi<g ref="char:EOLhyphen"/>ſhop, yet he could not look upon himſelf ſo diſcharged from that Duty he owed to God, as to forbear the Exer<g ref="char:EOLhyphen"/>ciſe of his Miniſtry, and therefore he did conſtantly in private, in his own Lodgings, Preach every Lords day in the morning, and gave ſtrict order, that none who were willing to come ſhould be excluded: which occaſioned the reſort of many, and thoſe of as great Quality as any were then in <hi>Dublin,</hi> who could not imagine that any Law was broken, in their aſſembling to hear one, who by Law was qualified to preach, and was alwaies ready in Perſon to de<g ref="char:EOLhyphen"/>fend both his Fact and Doctrine.</p>
+            <p>
+               <pb n="6" facs="tcp:30897:4"/>
+               <!-- PDF PAGE 61 -->
+Three Lords daies paſt thus without any diſturbance, when the Arch-Biſhop, being much enraged that any ſhould care to conteſt with his Sovereignty; under pretence of ſuppreſſing M<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe (which at that time was very frequent in <hi>Dublin</hi>) got the Maior to ſend Souldiers up and down the Town; who having it ſeems their Errand what to do, came only to Mr. <hi>Bagſhaw</hi>'s Lodgings, and there, contrary to their Inſtructions (as the Maior afterwards affirmed) for<g ref="char:EOLhyphen"/>cibly broke open the doors, and for ſome hours detained Mr. <hi>Bagſhaw</hi> and all the Company, to the number of above one hundred and twenty Priſoners; though Mr. <hi>Bagſhaw</hi> did very often and earneſtly intreat that either he himſelf might anſwer for all, or at leaſt, that the Women, whoſe Health might be much prejudiced by the Alarums of rude ſouldiers, might be diſmiſſed, but could prevail in nei<g ref="char:EOLhyphen"/>ther.</p>
+            <p>About one a clock the City Marſhall came and diſmiſſed the Guard, to the no little grief of the Souldiers, whoſe Commander expected great ſummes for Ranſom; though ſuch was the Reſolution and Courage of all there preſent, that none did ſo much as conceal their Names, but freely offered themſelves to appear any where, and to juſtifie the Action.</p>
+            <p>About four in the afternoon Mr. <hi>Bagſhaw</hi> and the greateſt part of his Company, with many others, met again, and performed the remaining duty of the day without any im<g ref="char:EOLhyphen"/>pediment.</p>
+            <p>Hitherto Mr. <hi>Bagſhaw</hi> had acted upon his own account, without ever acquainting the Right Honourable the Earl of <hi>Angleſey</hi> with what he had done; whoſe Name be was re<g ref="char:EOLhyphen"/>ſolved never to uſe in any thing, where the iſſue might be hazardous; and therefore he concealed from that Noble Perſon, not only the Archbiſhops Silencing him, but likewiſe
+<pb n="7" facs="tcp:30897:4"/>
+               <!-- PDF PAGE 61 -->his own Reſolution of continuing to preach in as publick a manner as he could. But now the diſturbance he had met with, being ſo notorious, he preſently addreſſed himſelf un<g ref="char:EOLhyphen"/>to that Honourable Perſon, to beg leave of him, that ſince there was no Liberty either for Publick or Private preach<g ref="char:EOLhyphen"/>ing, though he had attempted both, he might be diſmiſſed unto his Native Country; for however his Lordſhips ſer<g ref="char:EOLhyphen"/>vice was dear to him, yet he found he could not continue any further attendance, without creating jealouſies of him<g ref="char:EOLhyphen"/>ſelf, which at laſt would reflect upon his Lordſhip; and therefore he praied a diſcharge, to which that Prudent and Excellent Perſon readily aſſented; and an opportunity ſhortly after preſenting it ſelf in the Right Honourable the Vicounteſs of <hi>Valentia's</hi> &amp; her Daughters coming for <hi>England,</hi> M. <hi>Bagſhaw</hi> went to Sea in their Company, to wait upon them, and ſo came for <hi>England:</hi> But before he left <hi>Ireland,</hi> to ſtop thoſe many ſlanderous Reports, which were raiſed about him, he made this Brief Declaration; which he left to be conveyed unto the Hands of his Grace, <hi>James</hi> Duke of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> by whoſe Mild and Temperate Government he doth ſuppoſe it came to paſs, that he was ſo long Protected.</p>
+            <p>The Declaration was as followeth,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Underſtanding that I lie under the Cenſure of ſome, and the Calumny of others, as if I were a Perſon <hi>Heretical</hi> in my Judgment, <hi>Schiſmatical</hi> in my Practiſe, and <hi>Scandalous</hi> in my Life; though as to my ſelf, I ought to rejoyce in theſe Reproaches, (which are no other than our Saviour and his A<g ref="char:EOLhyphen"/>poſtles underwent before me) yet for the ſake of others, who poſſibly may ſuffer for their more favourable opinion of me; and for the ſake of Truth, which I ought to clear from
+<pb n="8" facs="tcp:30897:5"/>
+                     <!-- PDF PAGE 62 -->all Miſtakes and Prejudices; and leſt the Goſpel ſhould ſuffer for my ſake, who am, as I hear, condemned as an unworthy Miniſter of it, I thought fit to make this enſuing Declara<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>Firſt, As to my Faith and Judgment in Points of Do<g ref="char:EOLhyphen"/>ctrine, I do in general firmly believe whatever is contained in the Scriptures of the Old and New Teſtament; and more particularly, that Collection of <hi>Articles,</hi> which the <hi>Church of England</hi> hath made; and ſo far as by the Act of Q. <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> they are enjoyned, I am ready to ſubſcribe my real Aſ<g ref="char:EOLhyphen"/>ſent unto them: And accordingly I have already, by ſeve<g ref="char:EOLhyphen"/>ral Treatiſes in Print, declared my utter Abhorrence of all <hi>Popiſh, Socinian,</hi> and <hi>Arminian</hi> Tenets, which are expreſly condemned in thoſe Articles. In which Judgment I am much confirmed, ſince I have read the <hi>Articles of Ireland,</hi> every Clauſe and Circumſtance of which I do hereby acknowledge and own to be Sound and Orthodox.</p>
+                  <p>Secondly, As to <hi>Church-Government</hi> and <hi>Ceremony,</hi> the Scripture being more ſilent about them (as things of leffer Moment) I think I ought not to be blamed, if herein I aſ<g ref="char:EOLhyphen"/>ſume a greater Latitude, than poſſibly ſome others do: Yet becauſe the Peace of the Church is much concern'd in a right Stating of thoſe Matters, I do declare;</p>
+                  <p n="1">1. That I am ſo far from being againſt the <hi>Order of Biſhops,</hi> that when my Intereſt did altogether diſpoſe me to an utter renouncing of them, yet then did I chuſe to be Ordained by the Learned Biſhop <hi>Brownrigge;</hi> and at the time of my Or<g ref="char:EOLhyphen"/>dination (which was then when the Commonwealth-Parlia<g ref="char:EOLhyphen"/>ment had newly aſſumed the Government) I had a Teſti<g ref="char:EOLhyphen"/>monial from that worthy Perſon, in Terms ſo expreſſive of his Candid Opinion of me, that I am aſhamed to repeat, be<g ref="char:EOLhyphen"/>cauſe I am hopeleſs of ever deſerving it.</p>
+                  <p n="2">2. As for <hi>Ceremonies,</hi> I hold them to be things, in their
+<pb n="9" facs="tcp:30897:5"/>
+                     <!-- PDF PAGE 62 -->own Nature, <hi>Indifferent;</hi> and were they left ſo, I ſhould make no ſcruple ſomtimes to uſe them; but becauſe they are now impoſed, and made (at leaſt as to the Outward Practiſe of them) <hi>Neceſſary,</hi> and a Condition of Preaching the Go<g ref="char:EOLhyphen"/>ſpel, whereby their Indifferent Uſe <hi>pro hic &amp; nunc,</hi> is utterly taken away. I therefore now think it my Duty to forbear them: and that, upon this ſingle Reaſon, becauſe, to fix and eſtabliſh any thing as a neceſſary Outward Part of Religious Worſhip, which God hath no where commanded, is, ſo far as I yet ſee, an Entrenchment upon Chriſts <hi>Kingly</hi> Office, by which he is the ſole Legiſlator of his Church: and which ought to be preſerved Inviolable by us, as well as his <hi>Sacer<g ref="char:EOLhyphen"/>dotal</hi> and <hi>Prophetical;</hi> which two laſt, our Church, in op<g ref="char:EOLhyphen"/>poſition to the <hi>Church of Rome,</hi> hath worthily Aſſerted.</p>
+                  <p>I know very well, that many Learned and Pious men, whom I very much honour, have been, and are of a quite different Judgment; who conceive, that the Impoſing of ſuch <hi>Indifferent</hi> things, doth not only make them Lawful, but likewiſe doth oblige the Conſciences of all to an outward Obſervance of them: Which Aſſertion, I ſhould readily grant, could it once be cleared to me, that God had given ſuch power to any, as to make thoſe things Neceſſary in his Worſhip, which he hath left Indifferent and Free: But be<g ref="char:EOLhyphen"/>cauſe I am for the preſent unſatisfied in the Lawfulneſs of ſuch Impoſing, I ought in Conſcience to forbear the Pra<g ref="char:EOLhyphen"/>ctiſe and Obſervance of the Impoſition.</p>
+                  <p>This being the only thing, that I know of, wherein I dif<g ref="char:EOLhyphen"/>fer from thoſe, who are moſt devotedly for the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> I cannot but wonder, why the Reverend the Biſhop of <hi>Dublin</hi> ſhould think fit to Silence me; ſince I never yet did make it my Buſineſs, to vent that Opinion in the Pulpit, not ever uſed any Reflexions to alienate mens minds from the <hi>Eſtabliſhed Forms;</hi> for in ſuch things as theſe, that are not of
+<pb n="10" facs="tcp:30897:6"/>
+                     <!-- PDF PAGE 63 -->abſolute Neceſſity to Salvation, I think as none ought to be compelled unto, ſo neither ought they to be dehorted from the Uſage of them.</p>
+                  <p>It was meerly my being Silenced, and thereby hindred from preaching in the Publick places of Worſhip, which made me in Private, and to that Family I had the charge of, to exerciſe my Miniſtry: which Duty I conceive in Law (conſidering my Qualification) none ought without juſt cauſe to debar me from. And though it is poſſible I may be charged with a love of <hi>Separation,</hi> yet not only my Pra<g ref="char:EOLhyphen"/>ctiſe, but my Preaching doth ſufficiently evidence, that I have not, nor ever ſhall decline Communion with the <hi>Church of England.</hi> It being one of the Points, which I was hand<g ref="char:EOLhyphen"/>ling at the very inſtant when I was interrupted, to prove, That Errours in Doctrine, and ſome falſe mixtures in Wor<g ref="char:EOLhyphen"/>ſhip, if not impoſed, are not ſufficient grounds to divide and ſeparate from the Publick Aſſembly, if therein the Eſ<g ref="char:EOLhyphen"/>ſentials be retained: And this I cleared, both from the practiſe of our Saviour, who did not withdraw himſelf from the Jewiſh Worſhip, though it was then very corrupt; and likewiſe the <hi>Corinthians,</hi> though very faulty in many things, are exhorted by the Apoſtle to amend their Errours, without any intimation that it was their Duty to Separate.</p>
+                  <p>Having thus given an Account of my Faith, I muſt add, that as for my Life and Converſation, it is, though far from being exact according to the Rule, yet ſuch, that as my own Conſcience doth not, ſo neither can any, who have obſerv<g ref="char:EOLhyphen"/>ed my walking, juſtly upbraid me therewith. To ſay more, were to be guilty of that Folly, as if I either courted, or thought I deſerved Commendation for a bare doing of my Duty.</p>
+                  <p>Did I think it needful, I would conclude with teſtifying my Loyalty to his Majeſty, but my Actions hitherto, my
+<pb n="11" facs="tcp:30897:6"/>
+                     <!-- PDF PAGE 63 -->Writings, and my conſtant Prayers for him, do it much more than my preſent Words can: And whether or no, ſuch an one, that is thus qualified, according to the foregoing Declaration, who is not charged with any Errour in Do<g ref="char:EOLhyphen"/>ctrine, with any Vice in his Life, or with Unpeaceable<g ref="char:EOLhyphen"/>neſs in his Converſation, even as to thoſe very things where<g ref="char:EOLhyphen"/>in he differs; whether ſuch an one may not be allowed to Preach publickly, or at leaſt not be diſturbed in private, is humbly left to the Conſideration of the Supream Civil Ma<g ref="char:EOLhyphen"/>giſtrate in this Nation; to whom the Peace of the Nation, and in that the Peace of the Church, doth ſolely and proper<g ref="char:EOLhyphen"/>ly of Light belong.</p>
+                  <closer>
+                     <dateline>
+                        <date>Sept. <gap reason="illegible" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>. 1662.</date>
+                     </dateline>
+                     <signed>Subſcribed, <hi>Edw. Bagſhaw.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>T<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Paper<g ref="char:punc">▪</g> As I am Informed, was delivered into the Hand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Duke of <hi>Ormond;</hi> and what the Thoughts of that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Perſon were upon it, is left to every Indifferent and I<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>artial Reader to Judge.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
